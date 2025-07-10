@@ -29,5 +29,5 @@ A sleek and responsive movie search interface powered by **The Movie Database (T
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/movie-search-app.git
+git clone https://github.com/taqitazwar/Movie-Search-Web-App
 cd movie-search-app
