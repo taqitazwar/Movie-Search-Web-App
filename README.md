@@ -1,32 +1,36 @@
-# 🎬 Movie Search App
+# 🎬 Movie Search Web App
 
-A sleek and responsive movie search interface powered by **The Movie Database (TMDb)** API. Users can browse popular films and search for specific titles with instant visual feedback.
+A clean and responsive movie search application that fetches real-time data from [TMDb](https://www.themoviedb.org/). Instantly explore movie posters, ratings, and overviews in a sleek UI — built using only HTML, CSS, and JavaScript.
 
----
+![Movie Search Web App Screenshot](./screenshot.png)
 
-
-## ⚙️ Features
-
-- 🔍 Search for any movie using a keyword
-- 🌟 Browse top trending/popular movies
-- 🎨 Beautiful UI with color-coded ratings
-- 🧾 Overview text reveal on hover
-- ⚡ Fast and mobile-friendly
+📺 **Watch Demo**: [YouTube Video](https://youtu.be/lM0XidkBxyg)
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Features
 
-| Layer       | Tech                     |
-|-------------|--------------------------|
-| Frontend    | HTML5, CSS3, JavaScript  |
-| API         | [TMDb](https://www.themoviedb.org/) API  
-| Styling     | CSS Variables, Flexbox   |
+- 🔍 Real-time movie search via TMDb API
+- 📊 Color-coded rating badges (green, orange, red)
+- 🖼️ Poster and overview previews
+- 📱 Fully responsive design
+- ⚡ Smooth CSS transitions
+- 💡 Built with plain JavaScript (no frameworks!)
 
 ---
 
-## 🚀 How to Run Locally
+## 🛠️ Tech Stack
 
-1. Clone this repo:
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **TMDb API**
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repository
 ```bash
-git clone https://github.com/taqitazwar/Movie-Search-Web-App
+git clone https://github.com/taqitazwar/Movie-Search-Web-App.git
+cd Movie-Search-Web-App
