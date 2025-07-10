@@ -4,11 +4,6 @@ A sleek and responsive movie search interface powered by **The Movie Database (T
 
 ---
 
-## 📸 Live Preview
-
-> _Insert link here if hosted on GitHub Pages or Netlify_
-
----
 
 ## ⚙️ Features
 
