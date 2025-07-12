@@ -4,7 +4,7 @@ A clean and responsive movie search application that fetches real-time data from
 
 ![Movie Search Web App Screenshot](./screenshot.png)
 
-📺 **Watch Demo**: [YouTube Video](https://youtu.be/lM0XidkBxyg)
+📺 **Watch Demo**: [YouTube Video](https://www.youtube.com/watch?v=gruYWaM-1tg)
 
 ---
 
